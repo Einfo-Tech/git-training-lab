@@ -3,3 +3,4 @@
 请在个人 `feature/*` 分支中，在下方增加一行：
 
 - trainer
+- sample-trainee
