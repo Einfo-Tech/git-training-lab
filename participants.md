@@ -4,4 +4,4 @@
 
 - trainer
 - sample-trainee
-fuchang
+- fuchang
