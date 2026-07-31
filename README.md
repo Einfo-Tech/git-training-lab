@@ -17,4 +17,4 @@ feature/* 或 fix/* → dev → test → main
 
 详细练习见 [docs/TRAINING_GUIDE.md](docs/TRAINING_GUIDE.md)。
 
-> 本仓库只放训练数据。禁止放入真实令牌、私钥、客户数据或生产连接信息。
+> 本仓库只放训练数据。禁止放入真实令牌、私钥、客户数据或生产连接信息,git test。
